@@ -44,33 +44,6 @@ Each day contains:
 
 ---
 
-# 📁 Repository Structure
-SOC-AI-Journey/
-│
-├── AI-Tasks/
-│ ├── Day-1/
-│ ├── Day-2/
-│ ├── Day-3/
-│ ├── Day-4/
-│ └── Day-X/ (future)
-│
-├── SOC-Theory/
-│ ├── SOC-Basics.md
-│ ├── Types-of-Logs.md
-│ ├── Threat-Intel-Notes.md
-│ └── MITRE-ATTACK.md
-│
-├── KQL-Queries/
-│ └── README.md
-│
-├── Python-Automation/
-│ └── README.md
-│
-└── Incident-Reports/
-└── README.md
-
----
-
 # 🎯 Purpose of This Repository  
 This repo simulates **daily SOC analyst work**, including:
 
