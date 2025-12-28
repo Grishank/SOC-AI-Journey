@@ -44,6 +44,15 @@ Each day contains:
 
 ---
 
+### ✔ Day 5 — Cross-Platform Brute Force Investigation  
+- Correlated Windows and Linux authentication logs  
+- Identified successful brute-force attack  
+- Detected privileged account compromise (Event ID 4672)  
+- Mapped activity to MITRE ATT&CK (T1110, T1078)  
+📁 `AI-Tasks/Day-5/day5-analysis.md`
+
+---
+
 # 🎯 Purpose of This Repository  
 This repo simulates **daily SOC analyst work**, including:
 
@@ -68,11 +77,10 @@ Writing professional SOC reports and summaries.
 
 ---
 
-# 🚀 Upcoming Work (Day 5–Day 60)  
-- Day 5: Windows Event Correlation + Failed Logon Heatmaps  
-- Day 6: Brute Force Detection Engineering  
+# 🚀 Upcoming Work (Day 6–Day 60)  
+- Day 6: Detection logic for brute-force and valid-account abuse  
 - Day 7–10: Linux/Windows hybrid analysis  
-- MITRE ATT&CK tagging  
+- MITRE ATT&CK tagging at scale  
 - KQL query library  
 - Python enrichment scripts  
 - Full SOC report templates  
@@ -82,6 +90,3 @@ Writing professional SOC reports and summaries.
 
 # ⭐ Learning in Public  
 This repo is a growing timeline of my SOC journey — every day builds toward becoming a job-ready SOC Analyst.
-
-
-
