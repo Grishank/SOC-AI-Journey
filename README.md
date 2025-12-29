@@ -53,6 +53,15 @@ Each day contains:
 
 ---
 
+### ✔ Day 6 — Detection Logic & Alert Threshold Analysis  
+- Differentiated alert-worthy vs normal authentication behavior  
+- Designed threshold-based detection rules  
+- Focused on false-positive reduction  
+- Applied SOC alert logic and MITRE mapping  
+📁 `AI-Tasks/Day-6/day6-analysis.md`
+
+---
+
 # 🎯 Purpose of This Repository  
 This repo simulates **daily SOC analyst work**, including:
 
@@ -77,9 +86,9 @@ Writing professional SOC reports and summaries.
 
 ---
 
-# 🚀 Upcoming Work (Day 6–Day 60)  
-- Day 6: Detection logic for brute-force and valid-account abuse  
-- Day 7–10: Linux/Windows hybrid analysis  
+# 🚀 Upcoming Work (Day 7–Day 60)  
+- Linux/Windows hybrid analysis  
+- Detection engineering rules  
 - MITRE ATT&CK tagging at scale  
 - KQL query library  
 - Python enrichment scripts  
