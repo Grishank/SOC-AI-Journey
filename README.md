@@ -62,6 +62,15 @@ Each day contains:
 
 ---
 
+### ✔ Day 7 — Privilege Escalation & Suspicious Command Analysis  
+- Identified Linux and Windows privilege escalation techniques  
+- Detected persistence via SUID and admin group modification  
+- Analyzed encoded PowerShell abuse  
+- Mapped post-exploitation activity to MITRE ATT&CK  
+📁 `AI-Tasks/Day-7/day7-analysis.md`
+
+---
+
 # 🎯 Purpose of This Repository  
 This repo simulates **daily SOC analyst work**, including:
 
@@ -86,9 +95,9 @@ Writing professional SOC reports and summaries.
 
 ---
 
-# 🚀 Upcoming Work (Day 7–Day 60)  
-- Linux/Windows hybrid analysis  
-- Detection engineering rules  
+# 🚀 Upcoming Work (Day 8–Day 60)  
+- Advanced Linux/Windows hybrid analysis  
+- Detection engineering rules (brute force, privilege abuse)  
 - MITRE ATT&CK tagging at scale  
 - KQL query library  
 - Python enrichment scripts  
