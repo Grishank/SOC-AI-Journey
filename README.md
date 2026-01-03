@@ -71,6 +71,15 @@ Each day contains:
 
 ---
 
+### ✔ Day 8 — Suspicious Network Behavior & Early Attack Indicators  
+- Detected external reconnaissance targeting SSH services  
+- Identified suspicious internal east–west traffic  
+- Analyzed early-stage attack indicators at the network layer  
+- Mapped network activity to MITRE ATT&CK techniques  
+📁 `AI-Tasks/Day-8/day8-analysis.md`
+
+---
+
 # 🎯 Purpose of This Repository  
 This repo simulates **daily SOC analyst work**, including:
 
@@ -79,7 +88,7 @@ Identifying suspicious behavior from Windows & Linux logs
 (4625 failed logons, SSH brute-force, service account abuse)
 
 ### 🔹 Threat Detection  
-Recognizing brute force, reconnaissance, and privilege escalation attempts.
+Recognizing brute force, reconnaissance, privilege escalation, and lateral movement attempts.
 
 ### 🔹 MITRE ATT&CK Mapping  
 Understanding attacker techniques and TTP alignment.
@@ -95,9 +104,9 @@ Writing professional SOC reports and summaries.
 
 ---
 
-# 🚀 Upcoming Work (Day 8–Day 60)  
+# 🚀 Upcoming Work (Day 9–Day 60)  
 - Advanced Linux/Windows hybrid analysis  
-- Detection engineering rules (brute force, privilege abuse)  
+- Detection engineering rules (network, brute force, privilege abuse)  
 - MITRE ATT&CK tagging at scale  
 - KQL query library  
 - Python enrichment scripts  
