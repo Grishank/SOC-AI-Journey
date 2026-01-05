@@ -80,6 +80,15 @@ Each day contains:
 
 ---
 
+### ✔ Day 9 — Reconnaissance & Network Scanning Detection  
+- Identified horizontal port scanning behavior  
+- Differentiated normal traffic vs reconnaissance activity  
+- Detected Windows service targeting via port analysis  
+- Evaluated internal traffic for possible lateral movement  
+📁 `AI-Tasks/Day-9/day9-analysis.md`
+
+---
+
 # 🎯 Purpose of This Repository  
 This repo simulates **daily SOC analyst work**, including:
 
@@ -104,7 +113,7 @@ Writing professional SOC reports and summaries.
 
 ---
 
-# 🚀 Upcoming Work (Day 9–Day 60)  
+# 🚀 Upcoming Work (Day 10–Day 60)  
 - Advanced Linux/Windows hybrid analysis  
 - Detection engineering rules (network, brute force, privilege abuse)  
 - MITRE ATT&CK tagging at scale  
